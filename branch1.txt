@@ -1,1 +1,1 @@
-This is branch1 and this file belongs to only branch1 
+This is branch1 and this file belongs to only branch1
